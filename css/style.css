@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #355EFC;
+    --primary: #1C257E;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
@@ -539,3 +539,4 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
